@@ -1,4 +1,4 @@
-1. List the employee number, last name, first name, sex, and salary of each employee.
+/*1. List the employee number, last name, first name, sex, and salary of each employee.*/
 
 SELECT 
 	employees.emp_no, employees.last_name, employees.first_name,
@@ -8,4 +8,4 @@ FROM
 JOIN
 	salaries
 ON
-	employees.emp_no = salaries.emp_no;
+	employees.emp_no = salaries.emp_no LIMIT 10;
