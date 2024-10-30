@@ -1,3 +1,6 @@
+6. List each employee in the Sales department, including their employee number, 
+   last name, and first name.
+
 SELECT 
 	departments.dept_name, dept_emp.emp_no, 
 	employees.last_name, employees.first_name 
