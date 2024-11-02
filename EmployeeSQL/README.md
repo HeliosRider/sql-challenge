@@ -9,7 +9,7 @@ support analysis.
 
 TASK:
 
-For this project, the task is to design the tables to hold the data from the CSV files,
+For this project, the task is to design the tables that will hold the data from the CSV files,
 import the CSV files into a SQL database, and provide an analysis of the data. 
 
 OBJECTIVES:
@@ -38,4 +38,5 @@ OBJECTIVES:
        the employee last names (that is, how many employees share each last name).
 
 *Data Results*
-   The reuslts are provided as a csv file for each data analysis query.
+   1. The reuslts of the data analysis are provided as a csv file for each data analysis query.
+   2. Table schema provided for each of the six CSV files.
