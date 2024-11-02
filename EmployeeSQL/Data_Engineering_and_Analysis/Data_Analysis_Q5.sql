@@ -6,4 +6,5 @@ SELECT
 FROM 
 	employees
 WHERE
-	first_name LIKE 'Hercules' AND last_name LIKE 'B%' LIMIT 10;
+	first_name LIKE 'Hercules' AND last_name LIKE 'B%' 
+LIMIT 10;

@@ -8,4 +8,5 @@ FROM
 JOIN
 	salaries
 ON
-	employees.emp_no = salaries.emp_no LIMIT 10;
+	employees.emp_no = salaries.emp_no 
+LIMIT 10;

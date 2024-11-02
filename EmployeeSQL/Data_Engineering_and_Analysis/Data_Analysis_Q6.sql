@@ -11,4 +11,7 @@ INNER JOIN
 INNER JOIN
 	employees ON dept_emp.emp_no = employees.emp_no
 WHERE
-	departments.dept_name LIKE '%Sales%' LIMIT 10;
+	departments.dept_name LIKE '%Sales%' 
+ORDER BY
+	employees.last_name
+LIMIT 10;

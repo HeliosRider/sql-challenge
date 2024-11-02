@@ -9,4 +9,7 @@ FROM
 INNER JOIN
 	dept_emp ON departments.dept_no = dept_emp.dept_no
 INNER JOIN
-	employees ON dept_emp.emp_no = employees.emp_no LIMIT 10;
+	employees ON dept_emp.emp_no = employees.emp_no
+ORDER BY 
+departments.dept_no
+LIMIT 10;

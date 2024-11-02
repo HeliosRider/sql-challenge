@@ -12,4 +12,5 @@ FROM
 WHERE
 	departments.dept_name = 'Sales' OR departments.dept_name = 'Development'
 ORDER BY  
-	emp_no ASC LIMIT 10;
+	emp_no 
+LIMIT 10;
