@@ -38,5 +38,9 @@ OBJECTIVES:
        the employee last names (that is, how many employees share each last name).
 
 *Data Results*
+<<<<<<< HEAD
    1. The reuslts of the data analysis are provided as a csv file for each data analysis query.
    2. Table schema provided for each of the six CSV files.
+=======
+   The results are provided as a csv file for each data analysis query.
+>>>>>>> 41b137c0c7e70ff440fd6b7a363dcb9968c4734c
