@@ -37,6 +37,11 @@ OBJECTIVES:
     8. List the frequency counts, in descending order, of all 
        the employee last names (that is, how many employees share each last name).
 
+*Data Modeling*
+      1. (8) CSV files.
+      2. Schema Table Entity Relationship Diagram.
+      3. Schema Table SQL Script.
+
 *Data Results*
    1. **The results of the data analysis are provided as a csv file for each data analysis query (8). 
    2. Table schema provided for each of the six CSV files.
