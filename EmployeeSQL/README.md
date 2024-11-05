@@ -38,6 +38,7 @@ OBJECTIVES:
        the employee last names (that is, how many employees share each last name).
 
 *Data Modeling*
+     
       1. (8) CSV files.
       2. Schema Table Entity Relationship Diagram.
       3. Schema Table SQL Script.
