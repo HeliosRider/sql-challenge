@@ -38,13 +38,13 @@ The Analysis
 
     *Data Modeling*
          
-              1. (8) CSV files.
-              2. Schema Table Entity Relationship Diagram.
-              3. Schema Table SQL Script.
+        1. (8) CSV files.
+        2. Schema Table Entity Relationship Diagram.
+        3. Schema Table SQL Script.
 
-Assessment
+The Assessment
 
-     *Data Analysis Results*
+    *Data Analysis Results*
      
        1. **The results of the data analysis are provided as a csv file per data analysis query (8). 
        2. Table schemata provided.
